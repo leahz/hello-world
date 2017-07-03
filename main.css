@@ -1,0 +1,31 @@
+html, body {
+	font-family: Helvetica, sans-serif;
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+	font-weight: 300;
+}
+
+h2	{
+	font-size: 36px;
+}
+
+nav {
+	background-color: #A5F4E2;
+}	
+
+.about-btn {
+	float: right;
+}
+
+.AMS	{
+	background-color: #edc951;
+}
+
+.good-buys	{
+	background-color: #00a0b0;
+}
+
+.bts	{
+	background-color: #636363;
+}
